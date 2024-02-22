@@ -22,7 +22,7 @@ pull request 하는 법을 배웠다.
 클리핑마스크, smooth tool, magic wand tool, create outline, 블랜드 툴 사용법을 배웠다.
 ### GIT ###
 github를 클라우드처럼 사용하는 법에 대해 배웠다.
-## HTML ##
+### HTML ###
 visual studio 사용법에 대해서 배웠다.
 
 # 20240220 #
