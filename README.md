@@ -66,3 +66,4 @@ content awar에 대해서 배웠다.
 content protect에 대해서 배웠다.
 select mask에 대해서 배웠다.
 ### HTML ###
+깃허브에서 페이지 만드는 법을 배웠다.
