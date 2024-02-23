@@ -62,3 +62,7 @@ li, ol, ul 태그를 이용해 중첩 메뉴를 만드는 법에 대해서 배�
 ### 포토샵 ###
 smart object 기능에 대해서 배웠다.
 puppet wrap 기능에 대해서 배웠다.
+content awar에 대해서 배웠다.
+content protect에 대해서 배웠다.
+select mask에 대해서 배웠다.
+### HTML ###
