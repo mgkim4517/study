@@ -68,13 +68,26 @@ select mask에 대해서 배웠다.
 ### HTML ###
 깃허브에서 페이지 만드는 법을 배웠다.
 
-# 20240229 #
+# 20240226 #
 ### 포토샵 ###
 레이어 블랜딩에 대해서 배웠다.
 클리핑 마스크에 대해서 배웠다.
 adjustments에 대해서 배웠다. 
-
 ### HTML ###
 특정 위치 이동 태그에 대해서 배웠다.
 이미지 태그에 대해서 배웠다.
 이미지 태그 성격에 대해서 배웠다.
+
+# 20240227#
+### 포토샵 ###
+레이어 스타일에 대해서 배웠다.
+텍스쳐 패턴에 대해서 배웠다.
+레이어 스타일을 이용해서 글자를 입체적으로 보이게끔 만드는 법을 배웠다.
+인물 보정하는 법에 대해서 배웠다.
+clone stamp tool, spot healing brush,healing brush의 사용 방법과 특징에 대해서 배웠다.
+blur tool, sharpen tool, smudge tool, dodge tool, burn tool, sponge tool에 대해서 배웠다.
+sharpen, blur gallery, filter gallery에 대해서 배웠다.
+### HTML ###
+<table> 태그를 이용해 표 만드는 법에 대해서 배웠다.
+<colspan>, <rowspan> 태그를 이용해 다른 셀과 병합하는 방법에 대해서 배웠다.
+여러가지 form 태그에 대해서 배웠다.
