@@ -107,3 +107,4 @@ sharpen, blur gallery, filter gallery에 대해서 배웠다.
 constraints 기능에 대해서 배웠다.
 플러그인 사용법에 대해서 배웠다.
 ### HTML ###
+CSS에 대해서 배웠다.
