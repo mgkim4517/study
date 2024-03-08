@@ -137,3 +137,9 @@ prototype을 이용해서 드래그 모션을 만드는 방법에 대해서 배�
 vertical-alighn, border, padding, margin에 대해서 배웠다.
 emmet을 사용하는 방법에 대해서 배웠다.
 블록 요소의 중앙 정렬에 대해서 배웠다.
+
+# 20240308 #
+### FIGMA ###
+floating action buttons, slide(=carousel) 기능에 대해서 배웠다.
+### HTML ###
+border-radius 태그에 대해서 배웠다.
