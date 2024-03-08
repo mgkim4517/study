@@ -143,3 +143,4 @@ emmet을 사용하는 방법에 대해서 배웠다.
 floating action buttons, slide(=carousel) 기능에 대해서 배웠다.
 ### HTML ###
 border-radius 태그에 대해서 배웠다.
+요소 실제 크기를 계산하는 방법에 대해서 배웠다.
