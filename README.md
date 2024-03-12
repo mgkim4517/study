@@ -144,3 +144,16 @@ floating action buttons, slide(=carousel) 기능에 대해서 배웠다.
 ### HTML ###
 border-radius 태그에 대해서 배웠다.
 요소 실제 크기를 계산하는 방법에 대해서 배웠다.
+
+# 20240311 #
+### FIGMA ###
+markup을 만들었다.
+### HTML ###
+box-sizing, overflow 태그에 대해서 배웠다.
+넘치는 콘텐츠를 제어하는 방법에 대해서 배웠다.
+
+#20240312 #
+### FIGMA ###
+redisign을 만들었다.
+### HTML ###
+링크를 이용해 폰트를 적용하는 방법에 대해서 배웠다.
