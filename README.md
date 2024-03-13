@@ -154,6 +154,12 @@ box-sizing, overflow 태그에 대해서 배웠다.
 
 #20240312 #
 ### FIGMA ###
-redisign을 만들었다.
+mobile redisign을 만들었다.
 ### HTML ###
 링크를 이용해 폰트를 적용하는 방법에 대해서 배웠다.
+
+#20240313 #
+### FIGMA ###
+web redisign을 만들었다.
+### HTML ###
+display, before&after, accent-color 태그에 대해서 배웠다.
