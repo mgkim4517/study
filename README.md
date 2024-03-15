@@ -163,3 +163,15 @@ mobile redisign을 만들었다.
 web redisign을 만들었다.
 ### HTML ###
 display, before&after, accent-color 태그에 대해서 배웠다.
+
+# 20240314 #
+### UI/UX ###
+UI/UX의 기본 개념에 대해서 배웠다.
+안드로이드와 IOS의 차이점에 대해서 배웠다.
+### HTML ###
+em, rem, viewport 단위에 대해서 배웠다.
+flex direction, flex-wrap 태그에 대해서 배웠다.
+
+#20240315 #
+### HTML ###
+flex-flow, gap, justify-content, align-item, align-content, align-self 태그에 대해서 배웠다.
