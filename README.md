@@ -83,7 +83,7 @@ adjustments에 대해서 배웠다.
 텍스쳐 패턴에 대해서 배웠다.
 레이어 스타일을 이용해서 글자를 입체적으로 보이게끔 만드는 법을 배웠다.
 인물 보정하는 법에 대해서 배웠다.
-clone stamp tool, spot healing brush,healing brush의 사용 방법과 특징에 대해서 배웠다.
+clone stamp tool, spot healing brush, healing brush의 사용 방법과 특징에 대해서 배웠다.
 blur tool, sharpen tool, smudge tool, dodge tool, burn tool, sponge tool에 대해서 배웠다.
 sharpen, blur gallery, filter gallery에 대해서 배웠다.
 ### HTML ###
