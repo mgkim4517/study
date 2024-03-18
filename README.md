@@ -175,3 +175,8 @@ flex direction, flex-wrap 태그에 대해서 배웠다.
 # 20240315 #
 ### HTML ###
 flex-flow, gap, justify-content, align-item, align-content, align-self 태그에 대해서 배웠다.
+
+# 20240318 #
+### HTML ###
+UX 디자인 프로세스와 개발 방법에 대해서 배웠다.
+디자인 리서치 결과를 정리하는 방법에 대해서 배웠다.
