@@ -172,6 +172,6 @@ UI/UX의 기본 개념에 대해서 배웠다.
 em, rem, viewport 단위에 대해서 배웠다.
 flex direction, flex-wrap 태그에 대해서 배웠다.
 
-#20240315 #
+# 20240315 #
 ### HTML ###
 flex-flow, gap, justify-content, align-item, align-content, align-self 태그에 대해서 배웠다.
