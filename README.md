@@ -177,6 +177,16 @@ flex direction, flex-wrap 태그에 대해서 배웠다.
 flex-flow, gap, justify-content, align-item, align-content, align-self 태그에 대해서 배웠다.
 
 # 20240318 #
-### HTML ###
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트 주제를 정하고 벤치마킹 앱을 찾았다.
+### UI/UX ###
 UX 디자인 프로세스와 개발 방법에 대해서 배웠다.
 디자인 리서치 결과를 정리하는 방법에 대해서 배웠다.
+### HTML ###
+flex 태그와 관련된 예제를 연습했다.
+
+# 20240319 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트 주제에 대한 리서치와 swot을 분석했다.
+### HTML ###
+inline-flex, 수열선택자 태그에 대해서 배웠다.
