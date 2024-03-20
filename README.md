@@ -190,3 +190,10 @@ flex 태그와 관련된 예제를 연습했다.
 주차장 예약 시스템 팀 프로젝트 주제에 대한 리서치와 swot을 분석했다.
 ### HTML ###
 inline-flex, 수열선택자 태그에 대해서 배웠다.
+
+# 20240320 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트 주제에 대한 UXUI goal을 선정했다.
+### HTML ###
+background-image, background-position, background-attachment, background-size 태그에 대해서 배웠다.
+background 태그를 multi로 작성하는 방법에 대해서 배웠다.
