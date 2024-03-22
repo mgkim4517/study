@@ -106,7 +106,7 @@ sharpen, blur gallery, filter gallery에 대해서 배웠다.
 피그마의 기초 사용법에 대해서 배웠다.
 constraints 기능에 대해서 배웠다.
 플러그인 사용법에 대해서 배웠다.
-### HTML ###
+### CSS ###
 CSS 선택자와 우선 순위에 대해서 배웠다.
 
 # 20240305 #
@@ -115,7 +115,7 @@ component 기능에 대해서 배웠다.
 autolayout에 대해서 배웠다.
 마스크를 이용해 이미지 자르는 법에 대해서 배웠다.
 prototype에 대해서 배웠다.
-### HTML ###
+### CSS ###
 css 상속에 대해서 배웠다.
 font와 text의 다양한 스타일에 대해서 배웠다.
 
@@ -123,7 +123,7 @@ font와 text의 다양한 스타일에 대해서 배웠다.
 ### FIGMA ###
 variant 기능을 이용해 버튼 만드는 법에 대해서 배웠다.
 prototye을 활용해 도형을 회전시키는 모션을 만드는 방법에 대해서 배웠다.
-### HTML ###
+### CSS ###
 form style에 대해서 배웠다.
 의사 클래스와 의사 요소에 대해서 배웠다.
 인라인 요소와 블록 요소의 가로·세로 영역을 제어하는 방법에 대해서 배웠다.
@@ -133,7 +133,7 @@ form style에 대해서 배웠다.
 커뮤니티에서 키트를 가지고 와 작업하는 방법에 대해서 배웠다.
 prototype을 이용해서 드래그 모션을 만드는 방법에 대해서 배웠다.
 모바일 형식의 와이어 프레임을 만들었다.
-### HTML ###
+### CSS ###
 vertical-alighn, border, padding, margin에 대해서 배웠다.
 emmet을 사용하는 방법에 대해서 배웠다.
 블록 요소의 중앙 정렬에 대해서 배웠다.
@@ -141,34 +141,34 @@ emmet을 사용하는 방법에 대해서 배웠다.
 # 20240308 #
 ### FIGMA ###
 floating action buttons, slide(=carousel) 기능에 대해서 배웠다.
-### HTML ###
+### CSS ###
 border-radius 태그에 대해서 배웠다.
 요소 실제 크기를 계산하는 방법에 대해서 배웠다.
 
 # 20240311 #
 ### FIGMA ###
 markup을 만들었다.
-### HTML ###
+### CSS ###
 box-sizing, overflow 태그에 대해서 배웠다.
 넘치는 콘텐츠를 제어하는 방법에 대해서 배웠다.
 
 # 20240312 #
 ### FIGMA ###
 mobile redisign을 만들었다.
-### HTML ###
+### CSS ###
 링크를 이용해 폰트를 적용하는 방법에 대해서 배웠다.
 
 # 20240313 #
 ### FIGMA ###
 web redisign을 만들었다.
-### HTML ###
+### CSS ###
 display, before&after, accent-color 태그에 대해서 배웠다.
 
 # 20240314 #
 ### UI/UX ###
 UI/UX의 기본 개념에 대해서 배웠다.
 안드로이드와 IOS의 차이점에 대해서 배웠다.
-### HTML ###
+### CSS ###
 em, rem, viewport 단위에 대해서 배웠다.
 flex direction, flex-wrap 태그에 대해서 배웠다.
 
@@ -182,29 +182,30 @@ flex-flow, gap, justify-content, align-item, align-content, align-self 태그에
 ### UI/UX ###
 UX 디자인 프로세스와 개발 방법에 대해서 배웠다.
 디자인 리서치 결과를 정리하는 방법에 대해서 배웠다.
-### HTML ###
+### CSS ###
 flex 태그와 관련된 예제를 연습했다.
 
 # 20240319 #
 ### DESIGN ###
 주차장 예약 시스템 팀 프로젝트 주제에 대한 리서치와 swot을 분석했다.
-### HTML ###
+### CSS ###
 inline-flex, 수열선택자 태그에 대해서 배웠다.
 
 # 20240320 #
 ### DESIGN ###
 주차장 예약 시스템 팀 프로젝트 주제에 대한 UXUI goal을 선정했다.
-### HTML ###
+### CSS ###
 background-image, background-position, background-attachment, background-size 태그에 대해서 배웠다.
 background 태그를 multi로 작성하는 방법에 대해서 배웠다.
 
 # 20240321 #
 ### DESIGN ###
 주차장 예약 시스템 팀 프로젝트 주제에 대한 페르소나를 작성하고, UX VISION과 디자인 방향을 정했다.
-### HTML ###
+### CSS ###
 flex item 특성 종류인 flex-grow, flex-shirink, flex-basic, flex, order 태그에 대해서 배웠다.
 
 # 20240322 #
 ### DESIGN ###
 주차장 예약 시스템 팀 프로젝트 주제에 대한 사용자 시나리오와 정보구조도 AI를 작성했다.
-### HTML ###
+### CSS ###
+웹 사이트를 만드는 방법과 웹 사이트를 만들기 위해 필요한 설정에 대해서 배웠다.
