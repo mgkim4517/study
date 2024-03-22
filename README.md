@@ -202,4 +202,9 @@ background 태그를 multi로 작성하는 방법에 대해서 배웠다.
 ### DESIGN ###
 주차장 예약 시스템 팀 프로젝트 주제에 대한 페르소나를 작성하고, UX VISION과 디자인 방향을 정했다.
 ### HTML ###
-flex item 특성 종류인 flex-grow, flex-shirink, flex-basic, flex 태그에 대해서 배웠다.
+flex item 특성 종류인 flex-grow, flex-shirink, flex-basic, flex, order 태그에 대해서 배웠다.
+
+# 20240322 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트 주제에 대한 사용자 시나리오와 정보구조도 AI를 작성했다.
+### HTML ###
