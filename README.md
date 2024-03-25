@@ -11,15 +11,15 @@ git을 github에 업로드하고 삭제하는 법을 배웠다.
 
 # 20240216 #
 ### 일러스트 ###
-패스파인더를 활용해 도형 만드는 법을 배웠다.
+pathfinder를 활용해 도형 만드는 법을 배웠다.
 align 기능을 이용해 정렬하는 법을 배웠다.
 ### GIT ###
-github를 이용해 포크 및 클론하는 법을 배웠다.
+github를 이용해 fork 및 clone 하는 법을 배웠다.
 pull request 하는 법을 배웠다.
 
 # 20240219 #
 ### 일러스트 ###
-클리핑마스크, smooth tool, magic wand tool, create outline, 블랜드 툴 사용법을 배웠다.
+clipping mask, smooth tool, magic wand tool, create outline, blend tool 사용법을 배웠다.
 ### GIT ###
 github를 클라우드처럼 사용하는 법에 대해 배웠다.
 ### HTML ###
@@ -66,7 +66,7 @@ content awar에 대해서 배웠다.
 content protect에 대해서 배웠다.
 select mask에 대해서 배웠다.
 ### HTML ###
-깃허브에서 페이지 만드는 법을 배웠다.
+github에서 페이지 만드는 법을 배웠다.
 
 # 20240226 #
 ### 포토샵 ###
@@ -209,3 +209,9 @@ flex item 특성 종류인 flex-grow, flex-shirink, flex-basic, flex, order 태�
 주차장 예약 시스템 팀 프로젝트 주제에 대한 사용자 시나리오와 정보구조도 AI를 작성했다.
 ### CSS ###
 웹 사이트를 만드는 방법과 웹 사이트를 만들기 위해 필요한 설정에 대해서 배웠다.
+
+# 20240325 #
+### DESIGN ###
+주차장 예약 시스템 앱의 와이어 프레임을 제작했다.
+### CSS ###
+position_absolute, position_relative, position_fixed 태그에 대해서 배웠다.
