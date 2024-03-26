@@ -215,3 +215,9 @@ flex item 특성 종류인 flex-grow, flex-shirink, flex-basic, flex, order 태�
 주차장 예약 시스템 앱의 와이어 프레임을 제작했다.
 ### CSS ###
 position_absolute, position_relative, position_fixed 태그에 대해서 배웠다.
+
+# 20240326 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트 주제에 대한 워크 플로우를 제작했다.
+### CSS ###
+position 태그와 관련된 예제를 연습했다.
