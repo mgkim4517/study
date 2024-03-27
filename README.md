@@ -221,3 +221,9 @@ position_absolute, position_relative, position_fixed 태그에 대해서 배웠�
 주차장 예약 시스템 팀 프로젝트 주제에 대한 워크 플로우를 제작했다.
 ### CSS ###
 position 태그와 관련된 예제를 연습했다.
+
+# 20240327 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트 주제에 대한 워크 플로우를 수정하고, 프로토 타입을 만들었다. 질문 리스트를 만들어 자체적으로 우리 앱의 사용 편의성을 평가했다.
+### CSS ###
+position_sticky, z-index 태그에 대해서 배우고, position 태그와 관련된 예제를 연습했다.
