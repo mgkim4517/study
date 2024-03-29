@@ -233,3 +233,9 @@ position_sticky, z-index 태그에 대해서 배우고, position 태그와 관�
 주차장 예약 시스템 팀 프로젝트 프로토 타입을 수정하고, 우리가 제작한 마크업을 토대로 디자인을 시작했다.
 ### CSS ###
 object fit, aspect ratio, video ratio 태그와 가변 비디오에 대해서 배웠다.
+
+# 20270329 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트의 앱 디자인을 수정했다.
+### CSS ###
+position 태그를 이용해 내비게이션 메뉴를 만드는 예제를 연습했다.
