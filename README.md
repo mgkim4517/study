@@ -251,3 +251,9 @@ transition, transform 태그의 종류에 대해서 배웠다.
 주차장 예약 시스템 팀 프로젝트의 앱 디자인을 수정했다.
 ### CSS ###
 transform perspective와 포지션 중앙 정렬에 대해서 배우고 trans 태그와 관련된 예제를 연습했다.
+
+# 20240403 #
+### DESIGN ###
+주차장 예약 시스템 팀 프로젝트의 앱 디자인을 수정했다.
+### CSS ###
+trans 태그와 관련된 예제를 연습하고 animaition basic에 대해서 배웠다.
