@@ -1,7 +1,7 @@
 # 20240412 #
 ### - CSS ###
 > `grid와 관련된 예제를 연습했다.`  
-> ``viewport 태그와 mediaQueries 태그에 대해서 배웠다.``
+> ```viewport 태그와 mediaQueries 태그에 대해서 배웠다.```
 
 # 20240411 #
 ### - CSS ###
