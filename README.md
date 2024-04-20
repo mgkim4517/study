@@ -130,7 +130,7 @@
 ### - DESIGN ###
 > 주차장 예약 시스템 팀 프로젝트 주제에 대한 `페르소나를 작성`하고, `UX VISION`과 `디자인 방향`을 정했다.
 ### - CSS ###
-> `flex item` 특성 종류인 `flex-grow`, `flex-shirink`, `flex-basic`, `flex, order` 태그에 대해서 배웠다.
+> `flex item` 특성 종류인 `flex-grow`, `flex-shirink`, `flex-basic`, `flex-order` 태그에 대해서 배웠다.
 
 # 20240320 #
 ### - DESIGN ###
@@ -143,7 +143,7 @@
 
 # 20240319 #
 ### - DESIGN ###
-> 주차장 예약 시스템 팀 프로젝트 주제에 대한 `리서치`와 `swot`을 분석했다.
+> 주차장 예약 시스템 팀 프로젝트 주제에 대한 경쟁사 앱 `리서치`와 `swot`을 분석했다.
 ### - CSS ###
 > `inline-flex`, `수열선택자` 태그에 대해서 배웠다.
 
