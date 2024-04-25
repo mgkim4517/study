@@ -1,19 +1,26 @@
 # 20240424 #
-### - Java Script ###
-> `switch 선택문`, `for 반복문`, `변수 scope`, `while 반복문`에 대해서 배웠다.
+### - JavaScript ###
+> `break 키워드`, `continue 키워드`, `객체 Object`, `Date 객체`, `Math 객체`에 대해서 배웠다.
 >
 >
-> `switch 선언문`, `for 반복문`과 관련된 예제를 연습했다.
+> `break 키워드`, `continue 키워드`, `while 반복문`, `Math 객체`와 관련된 예제를 연습했다.
+
+# 20240424 #
+### - JavaScript ###
+> `switch 선택문`, `중첩 switch 선택문`, `for 반복문`, `변수 scope`, `while 반복문`에 대해서 배웠다.
+>
+>
+> `switch 선언문`, `for 반복문`, `while 반복문`과 관련된 예제를 연습했다.
 
 # 20240423 #
-### - Java Script ###
+### - JavaScript ###
 > `증감 연산자`, `비교 연산자`, `데이터형 비교 연산자`, `논리 연산자`, `삼항 연산자`에 대해서 배웠다.
 >
 >
 > `if 조건문`, `if-else 조건문`, `else-if 조건문`, `중첩 if 조건문`, `switch 선택문`에 대해서 배웠다.
 
 # 20240422 #
-### - Java Script ###
+### - JavaScript ###
 > `java script`에 대해서 배웠다.
 >
 > 
