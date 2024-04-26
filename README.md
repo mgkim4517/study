@@ -1,3 +1,10 @@
+# 20240425 #
+### - JavaScript ###
+> `배열 Array`의 `push`, `unshift`, `concat`, `join`, `splice`, `slice`, `delete`에 대해서 배웠다.
+>
+>
+> `String 객체`, `함수 function`에 대해서 배웠다.
+
 # 20240424 #
 ### - JavaScript ###
 > `break 키워드`, `continue 키워드`, `객체 Object`, `Date 객체`, `Math 객체`에 대해서 배웠다.
@@ -21,10 +28,10 @@
 
 # 20240422 #
 ### - JavaScript ###
-> `java script`에 대해서 배웠다.
+> `JavaScript`에 대해서 배웠다.
 >
 > 
-> `java script`의 `내부 선언`과 `외부 선언` 방법에 대해서 배웠다.
+> `JavaScript`의 `내부 선언`과 `외부 선언` 방법에 대해서 배웠다.
 >
 >
 > `변수 (variable)` `var`, `let`에 대해서 배웠다.
