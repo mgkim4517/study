@@ -1,11 +1,11 @@
-# 20240425 #
+# 20240426 #
 ### - JavaScript ###
 > `배열 Array`의 `push`, `unshift`, `concat`, `join`, `splice`, `slice`, `delete`에 대해서 배웠다.
 >
 >
 > `String 객체`, `함수 function`에 대해서 배웠다.
 
-# 20240424 #
+# 20240425 #
 ### - JavaScript ###
 > `break 키워드`, `continue 키워드`, `객체 Object`, `Date 객체`, `Math 객체`에 대해서 배웠다.
 >
