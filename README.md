@@ -1,3 +1,8 @@
+# 20240429 #
+### - JavaScript ###
+* `this 키워드`, `=> 화살표 함수`, `함수 scope`, `콜백함수`, `비동기 통신`에 대해서 배웠다.
+* `함수`, `this 키워드`, `배열`과 관련된 예제를 연습했다.
+
 # 20240426 #
 ### - JavaScript ###
 * `배열 Array`의 `push`, `unshift`, `concat`, `join`, `splice`, `slice`, `delete`에 대해서 배웠다.
