@@ -1,3 +1,9 @@
+# 20240430 #
+### - JavaScript ###
+* `배열 Array`의 `find`, `filter`, `reduce`, `forEach`에 대해서 배웠다.
+* `spread 전개 구문`에 대해서 배웠다.
+* `배열 Array`의 `forEach`, `map`와 관련된 예제를 연습했다.
+
 # 20240429 #
 ### - JavaScript ###
 * `this 키워드`, `=> 화살표 함수`, `함수 scope`, `콜백 함수`, `비동기 통신`에 대해서 배웠다.
