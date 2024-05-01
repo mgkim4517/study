@@ -1,8 +1,15 @@
+# 20240501 #
+### - JavaScript ###
+* `DOM 객체`를 `탐색`하는 방법과 `DOM 객체`의 `표준 속성`에 대해서 배웠다.
+* `class 제어`에 대해서 배웠다.
+* `event`와 관련해 `DOMContentLoaded`, `이벤트 전달`하는 방법과 `이벤트 제어`하는 방법, `이벤트 타겟`에 대해서 배웠다.
+* `DOM 객체`와 관련된 예제를 연습했다.
+
 # 20240430 #
 ### - JavaScript ###
-* `배열 Array`의 `find`, `filter`, `reduce`, `forEach`에 대해서 배웠다.
+* `배열 Array`의 `find`, `filter`, `reduce`, `forEach`, `map`에 대해서 배웠다.
 * `spread 전개 구문`에 대해서 배웠다.
-* `배열 Array`의 `forEach`, `map`와 관련된 예제를 연습했다.
+* `배열 Array`의 `forEach`, `map`과 관련된 예제를 연습했다.
 
 # 20240429 #
 ### - JavaScript ###
