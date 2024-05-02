@@ -1,3 +1,9 @@
+# 20240502 #
+### - jQuery ###
+* `jQuery`의 초기 설정 방법에 대해서 배웠다.
+* `jQuery`에 대한 `선택자 selectors`, `event method`에 대해서 배웠다.
+* `jQuery event`를 `show`, `hide`, `toggle`, `slide up`, `slide down`, `slide toggle`, `fade in`, `fade out`, `fade toggle`, `fade to`를 통해 제어하는 방법에 대해서 배웠다.
+
 # 20240501 #
 ### - JavaScript ###
 * `DOM 객체`를 `탐색`하는 방법과 `DOM 객체`의 `표준 속성`에 대해서 배웠다.
