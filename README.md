@@ -1,3 +1,9 @@
+# 20240503 #
+### - jQuery ###
+* `width`와 `height`를 제어하는 방법에 대해서 배웠다.
+* `text method`, `html method`, `attr`에 대해서 배웠다.
+* `slide`, `attr`와 관련된 예제를 연습했다.
+
 # 20240502 #
 ### - jQuery ###
 * `jQuery`의 초기 설정 방법에 대해서 배웠다.
