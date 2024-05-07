@@ -1,3 +1,8 @@
+# 20240507 #
+### - jQuery ###
+* `hasClass()`, `remove()`, `empty()`, `prependTo()`, `appendTo()`에 대해서 배웠다.
+* `toggle class`, `class`, `prependTo()`, `appendTo()`와 관련된 예제를 연습했다.
+
 # 20240503 #
 ### - jQuery ###
 * `width`와 `height`를 제어하는 방법에 대해서 배웠다.
