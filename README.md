@@ -1,3 +1,8 @@
+# 20240508 #
+### - jQuery ###
+* `animate()`에 대해서 배웠다.
+* `prependTo()`, `appendTo()`, `animate()`, `slide`와 관련된 예제를 연습했다.
+
 # 20240507 #
 ### - jQuery ###
 * `hasClass()`, `remove()`, `empty()`, `prependTo()`, `appendTo()`에 대해서 배웠다.
@@ -321,7 +326,7 @@
 * `디렉토리 구조와 URL`에 대해서 배웠다.
 
 # 20240221 #
-### - 일러스트 ###
+### - ILLUST ###
 * `Extude&Bevel`와 `Revolve` 기능을 이용해 `3D 작업`하는 법을 배웠다.
 * `Distort&Transform`와 `stylize` 기능을 이용해 `3D 작업물에 효과` 주는 법을 배웠다.
 * `심볼` 만드는 법과 `3D 작업물에 심볼 추가`하는 법을 배웠다.
@@ -331,7 +336,7 @@
 * `li`, `ol`, `ul` 태그를 이용해 `중첩 메뉴`를 만드는 법에 대해서 배웠다.
 
 # 20240220 #
-### - 일러스트 ###
+### - ILLUST ###
 * `width tool`, `blob brush tool`에 대해서 배웠다.
 * `Extude&Bevel` 기능을 이용해 `3D 형태의 도형` 만드는 법에 대해서 배웠다.
 ### - HTML ###
@@ -341,7 +346,7 @@
 * 특수 기호 `Entity Code`에 대해서 배웠다.
 
 # 20240219 #
-### - 일러스트 ###
+### - ILLUST ###
 * `clipping mask`, `smooth tool`, `magic wand tool`, `create outline`, `blend tool` 사용법을 배웠다.
 ### - GIT ###
 * github를 `클라우드`처럼 사용하는 법에 대해 배웠다.
@@ -349,7 +354,7 @@
 * `visual studio` 사용법에 대해서 배웠다.
 
 # 20240216 #
-### - 일러스트 ###
+### - ILLUST ###
 * `pathfinder`를 활용해 도형 만드는 법을 배웠다.
 * `align` 기능을 이용해 정렬하는 법을 배웠다.
 ### - GIT ###
