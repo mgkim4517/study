@@ -1,12 +1,22 @@
+# 20240510 #
+### - jQuery ###
+* `scrollTop`, `scrolLeft`, `scrollTo`, `scrollBy`, `scrollIntoView`, `window 객체 사이즈`, `offset`에 대해서 배웠다.
+* `scrollTop`, `scrollLeft`와 관련된 예제를 연습했다.
+
+# 20240509 #
+### - jQuery ###
+* `delay`에 대해서 배웠다.
+* `animate`, `slide`와 관련된 예제를 연습했다
+
 # 20240508 #
 ### - jQuery ###
-* `animate()`에 대해서 배웠다.
-* `prependTo()`, `appendTo()`, `animate()`, `slide`와 관련된 예제를 연습했다.
+* `animate`에 대해서 배웠다.
+* `prependTo`, `appendTo`, `animate`, `slide`와 관련된 예제를 연습했다.
 
 # 20240507 #
 ### - jQuery ###
-* `hasClass()`, `remove()`, `empty()`, `prependTo()`, `appendTo()`에 대해서 배웠다.
-* `toggle class`, `class`, `prependTo()`, `appendTo()`와 관련된 예제를 연습했다.
+* `hasClass`, `remove`, `empty`, `prependTo`, `appendTo`에 대해서 배웠다.
+* `toggle class`, `class`, `prependTo`, `appendTo`와 관련된 예제를 연습했다.
 
 # 20240503 #
 ### - jQuery ###
