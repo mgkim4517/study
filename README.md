@@ -1,3 +1,8 @@
+# 20240513 #
+### - jQuery ###
+* `scrollY`에 대해서 배웠다.
+* `scroll`과 관련된 예제를 연습했다.
+
 # 20240510 #
 ### - jQuery ###
 * `scrollTop`, `scrolLeft`, `scrollTo`, `scrollBy`, `scrollIntoView`, `window 객체 사이즈`, `offset`에 대해서 배웠다.
