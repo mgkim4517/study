@@ -1,3 +1,7 @@
+# 20240517 #
+### - jQuery ###
+* `fullpage js`에 대해서 배웠다.
+
 # 20240516 #
 ### - jQuery ###
 * `resize`에 대해서 배웠다.
@@ -5,7 +9,7 @@
 
 # 20240515 #
 ### - jQuery ###
-* `progress bar`, `>requestAnimationFrame`에 대해서 배웠다.
+* `progress bar`, `requestAnimationFrame`에 대해서 배웠다.
 * `마우스 좌표`의 `clientX,Y`, `offsetX,Y`, `pageX,Y`, `screenX,Y`에 대해서 배웠다.
 * `scroll`과 관련된 예제를 연습했다.
 
