@@ -1,3 +1,11 @@
+# 20240605 ~
+### LALASWEET 반응형 웹 디자인 및 퍼블리싱 작업
+#### [lalasweet 작업 일지 보러 가기](https://github.com/mgkim4517/lalasweet)
+
+# 20240527 ~ 20240604
+### 포트폴리오 작업
+#### [portfolio 작업 일지 보러 가기](https://github.com/mgkim4517/portfolio)
+
 # 20240530 #
 ### - react ###
 * `reset`을 사용하는 방법에 대해서 배웠다.
