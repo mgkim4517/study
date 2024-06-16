@@ -1,4 +1,4 @@
-# 20240604 ~
+# 20240604 ~ 20240614
 ### LALASWEET 반응형 웹 디자인 및 퍼블리싱 작업
 #### [lalasweet 작업 일지 보러 가기](https://github.com/mgkim4517/lalasweet)
 
